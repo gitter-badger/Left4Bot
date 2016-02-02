@@ -1,4 +1,6 @@
 # Left4Bot
+
+[![Join the chat at https://gitter.im/toby3d/Left4Bot](https://badges.gitter.im/toby3d/Left4Bot.svg)](https://gitter.im/toby3d/Left4Bot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Бот Telegram с богатым (в будущем) функционалом.
 
 ## To-Do
